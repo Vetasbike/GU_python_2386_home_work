@@ -10,7 +10,6 @@
 6 процентов
 ...
 100 процентов
-
 '''
 
 def transform_string(number: int) -> str:
